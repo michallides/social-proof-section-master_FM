@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/michallides/single-price-grid-component-master_FM](https://github.com/michallides/single-price-grid-component-master_FM)
-- Live Site URL: [https://michallides.github.io/single-price-grid-component-master_FM/](https://michallides.github.io/single-price-grid-component-master_FM/)
+- Solution URL: [https://github.com/michallides/social-proof-section-master_FM](https://github.com/michallides/social-proof-section-master_FM)
+- Live Site URL: [https://michallides.github.io/social-proof-section-master_FM/](https://michallides.github.io/social-proof-section-master_FM/)
 
 ### Built with
 
